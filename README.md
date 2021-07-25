@@ -1,3 +1,3 @@
-# SOLIDWORKS-portfolio
-Portfolio with SOLIDOWRKS design and assembly projects
+# 3D Modeling and Reconstruction Portfolios
 Please click on the file to view projects.
+
